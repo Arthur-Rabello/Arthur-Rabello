@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm [Your Name]! 🌍
+# 👋 Hello World, I'm Arthur! 🌍
 
 I am an IT student majoring in Information and Communication Technologies, currently developing my skills through academic and personal projects. Although I don't have professional work experience yet. 
 
