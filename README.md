@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Arthur! 🌍
 
-I am an IT student majoring in Information and Communication Technologies, currently developing my skills through academic and personal projects. Although I don't have professional work experience yet. 
+I am an IT student majoring in Information and Communication Technologies, currently developing my skills through academic and personal projects.
 
 I have gained hands-on experience with Ruby on Rails, Docker, and related technologies. I am passionate about learning and continuously looking for new challenges to enhance my knowledge and skills.
 
