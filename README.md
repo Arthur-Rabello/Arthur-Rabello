@@ -1,8 +1,8 @@
 # 👋 Hello World, I'm Arthur! 🌍
 
-I am an IT student majoring in Information and Communication Technologies, currently developing my skills through academic and personal projects.
+I am an IT student majoring in Information and Communication Technologies, focused on developing my skills through academic and personal projects.
 
-I have gained hands-on experience with Ruby on Rails, Docker, and related technologies. I am passionate about learning and continuously looking for new challenges to enhance my knowledge and skills.
+I have hands-on experience with C#, .NET, ASP.NET Core, Entity Framework, PostgreSQL, Ruby on Rails, Docker, and related technologies. I am passionate about continuous learning, problem-solving, and taking on new challenges that help me grow as a technology professional.
 
 ---
 
